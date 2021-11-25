@@ -26,7 +26,6 @@ p {
     position: absolute;
     left: calc(50% - 270px);
     top:300%;
-   
     margin: 10px;
     font-size: 34px;
     font-weight: 600;
@@ -61,7 +60,7 @@ p {
     margin: 4px 10px 12px;
 }
 .Suscess-link.show{
-    transform: translateY(-650%);
+    transform: translateY(-750%);
     transition: transform 3s;
 }
 @keyframes move {
@@ -92,7 +91,7 @@ article {
     width: 80%;
     margin: auto;
     font-size: 2em;
-    top: 50%;
+    top: 35%;
     position: relative;
     transform: translateY(-50%);
 }
